@@ -1,10 +1,10 @@
-package backend.etec
+package etec.backend
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class EtecApplicationTests {
+class BackendApplicationTests {
 
 	@Test
 	fun contextLoads() {
